@@ -10,8 +10,7 @@ Then I applied Logistic Regression to train the model and check how well it pred
 
 At the end, I tested it using the x_test and y_test data.
 
-The accuracy score I got was:
-0.8051948051948052
+# The accuracy score I got was: 0.8051948051948052
 
 I also used .predict_proba() which gives the probabilities like how sure the model is about 0 or 1.
 
